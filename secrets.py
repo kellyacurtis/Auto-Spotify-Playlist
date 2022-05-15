@@ -1,4 +1,4 @@
-spotify_user_id = "kellyashleyx3"
-discover_weekly_id = "37i9dQZEVXcFJbxAKEZVol"
-refresh_token = "AQBdAw2BhwQbFoniaMOeG2KTidhq72a0yklnVYY0Kze24dC_BcN5qCS7CQyDoU4K0WJxE_3nuJ5yI69w2OtBtuSAvX3HaNlKtO44xcMkLoqlJ7_iRqIklIpKv9-g12peKVI"
-base_64 = "YWEyYTA4MjU5ODVlNGI4ZWIwNmZmNzQ0NzZlNjliOGM6NmYzN2Y2YTUzNDQ1NGI4ZDllN2Y3OTVhODEwODlkOWQ="
+spotify_user_id = ""
+discover_weekly_id = ""
+refresh_token = ""
+base_64 = ""
