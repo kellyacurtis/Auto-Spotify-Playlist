@@ -83,7 +83,7 @@ class savediscoversongs:
 
         print(response.json)
         
-    #repeat this every week
+    #access refresh token so this can be repeated
     def call_refresh(self):
     
         print("Refreshing token...")
